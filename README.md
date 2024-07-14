@@ -1,4 +1,4 @@
-[![MasterHead](https://images.app.goo.gl/hBZy6SX4D63nD4mX9)](https://mahimabaxla.io)
+[![MasterHead](https://images.app.goo.gl/hBZy6SX4D63nD4mX9)]
 
 <h1 align="center">Hi 👋, I'm Mahima Baxla</h1>
 <h3 align="center">A passionate MERN Stack Developer</h3>
